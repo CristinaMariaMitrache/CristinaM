@@ -1,4 +1,4 @@
-<h1>Testing Project for **Inserati aici numele aplicatiei pe care o testati**</h1>
+<h1>Testing Project for Testing Project for Plant Shop
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
@@ -8,17 +8,15 @@ Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below story As an user i want to create an account and As an user i want to be able to navigate on main page was created in Jira and describes the functional specifications of the "Testing Project for Plant Shop" module, for which the final project is performed upon.
+The below story As an user i want to create an account and As an user i want to be able to navigate on main page was created in Jira and describes the functional specifications of the "As an user i want to create an account and As an user i want to be able to navigate on main page" module, for which the final project is performed upon.
 
  ![Story 1 si 2](https://github.com/user-attachments/assets/d5f76e0b-6ba7-41de-84c2-097aab474378)
  ![Story 1](https://github.com/user-attachments/assets/c283320b-244c-4332-9cbe-992f7e8a2b16)
 ![Story 2](https://github.com/user-attachments/assets/00454e3c-3f94-42af-9a00-c0f5a0935621)
 
-
-
 Here you can find the release that was created for this project:
 
-**(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
+![proiect final](https://github.com/user-attachments/assets/73082d77-8dd2-49a4-821c-56979970efe4)
 
 <h2>Testing process</h2>
 
@@ -28,35 +26,103 @@ The test process was performed based on the standard test process as described b
 
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **(inserati link catre documentul cu planul de testare)**
-
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
+Mitrache Cristina-Maria
 <ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
+  <li>Project manager</li> Ana A
+  <li>Product owner</li> Ana B
+  <li>Software developer</li> Ana C
+  <li>QA Engineer</li> Ana D
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+Definirea și Aprobarea Proiectului
+
+Scopul și Obiectivele Proiectului: Documentarea și aprobarea scopului, obiectivelor și beneficiilor așteptate ale proiectului.
+Sponsorul Proiectului: Identificarea și aprobarea unui sponsor al proiectului care va oferi suportul necesar și va lua deciziile finale.
+Resurse și Echipe
+Echipa Proiectului: Alocarea și confirmarea membrilor echipei proiectului, inclusiv rolurile și responsabilitățile acestora.
+Resurse Tehnice: Asigurarea accesului la resursele tehnice necesare, cum ar fi hardware-ul, software-ul și instrumentele necesare pentru dezvoltare.
+Documentație și Cerințe
+Cerințe de Business: Colectarea și documentarea cerințelor de business complete și aprobate.
+Cerințe Tehnice: Detalierea cerințelor tehnice și specificațiilor necesare pentru dezvoltarea proiectului.
+Documentație Funcțională: Crearea documentației funcționale care descrie funcționalitățile așteptate ale proiectului.
+Planificare și Estimare
+Plan de Proiect: Dezvoltarea unui plan detaliat de proiect care include fazele, activitățile, termenele limită și dependențele.
+Estimări de Timp și Costuri: Estimarea timpului necesar și a costurilor implicate pentru completarea proiectului.
+Riscuri și Gestionarea Riscurilor
+Identificarea Riscurilor: Identificarea și documentarea riscurilor potențiale asociate proiectului.
+Plan de Management al Riscurilor: Dezvoltarea unui plan de management al riscurilor care include strategii de atenuare și planuri de răspuns.
+Buget și Finanțare
+Aprobarea Bugetului: Obținerea aprobării bugetului necesar pentru proiect.
+Alocarea Fondurilor: Asigurarea că fondurile necesare sunt alocate și disponibile pentru utilizare.
+Infrastructură și Mediu de Lucru
+Mediu de Dezvoltare: Configurarea și accesul la mediul de dezvoltare necesar (servere, baze de date, rețele, etc.).
+Instrumente de Gestionare a Proiectului: Asigurarea accesului la instrumentele necesare pentru gestionarea proiectului, inclusiv Jira.
+Training și Dezvoltare
+Training pentru Echipa de Proiect: Asigurarea că membrii echipei au primit training-ul necesar pentru a utiliza Jira și alte instrumente relevante.
+Ghiduri și Documentație: Furnizarea ghidurilor și documentației necesare pentru a sprijini utilizarea corectă a Jira și implementarea proiectului.
+Comunicare și Colaborare
+Plan de Comunicare: Dezvoltarea unui plan de comunicare care include frecvența, canalele și metodele de comunicare.
+Mijloace de Colaborare: Asigurarea mijloacelor de colaborare necesare, cum ar fi Slack, Microsoft Teams, etc.
+Aprobări și Semnături
+Aprobări Oficiale: Obținerea aprobărilor oficiale de la toate părțile implicate (sponsor, management, echipa de proiect).
+Documente Semnate: Asigurarea că toate documentele necesare sunt semnate și arhivate corespunzător.
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+Realizarea Obiectivelor Proiectului
+
+Scopul și Obiectivele Atinge: Toate obiectivele și scopul definit inițial al proiectului au fost realizate.
+Livrabile Finalizate: Toate livrabilele proiectului au fost completate și livrate conform specificațiilor.
+Testare și Validare
+Testare Funcțională Completă: Toate funcționalitățile au fost testate și validate pentru a asigura că funcționează conform așteptărilor.
+Testare de Acceptanță de către Utilizatori (UAT): Utilizatorii finali au testat și aprobat funcționalitățile proiectului.
+Rezolvarea Problemelor: Toate problemele și defectele identificate au fost rezolvate sau documentate și aprobate pentru închidere.
+Documentație și Informații
+Documentație Completă: Toată documentația de proiect (manuale de utilizare, documentație tehnică, ghiduri de instalare, etc.) este completă și actualizată.
+Documentația de Testare: Rezultatele testelor și rapoartele de testare sunt complete și disponibile pentru revizuire.
+Training și Transfer de Cunoștințe
+Training Realizat: Toate sesiunile de training planificate pentru utilizatori și echipa de suport au fost realizate.
+Transfer de Cunoștințe: Transferul de cunoștințe către echipa de suport și întreținere a fost finalizat.
+Evaluarea Performanței și Acceptarea
+Evaluarea Performanței: Evaluarea performanței proiectului conform criteriilor stabilite (de exemplu, timp de răspuns, stabilitate, utilizare resurse).
+Acceptarea de către Stakeholderi: Stakeholderii cheie au revizuit și au acceptat rezultatele proiectului.
+Buget și Finanțe
+Buget Respectat: Proiectul a fost realizat în limita bugetului aprobat.
+Rapoarte Financiare: Rapoartele financiare finale au fost pregătite și revizuite.
+Riscuri și Lecții Învățate
+Riscuri Rezolvate: Toate riscurile identificate au fost gestionate și documentate.
+Lecții Învățate: Lecțiile învățate pe parcursul proiectului au fost documentate și distribuite echipei.
+Clienți și Utilizatori
+Satisfacția Utilizatorilor: Feedback-ul de la utilizatori indică un nivel ridicat de satisfacție.
+Asistență Post-Lansare: Asigurarea că există un plan de suport post-lansare pentru a gestiona eventualele probleme apărute după închidere.
+Formalități de Închidere
+Reuniunea de Închidere: Organizarea unei reuniuni de închidere a proiectului cu toți stakeholderii implicați.
+Aprobări Finale: Obținerea aprobărilor finale pentru închiderea oficială a proiectului.
 
 <h4> 1.1.4 Test scope</h4>
 
 <h5> Tests in scope: </h5>
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+As an user i want to create an account: 
+
+Verify that the user can authentificate into the application when inserting valid credentials
+Verify that the user can authentificate into the application when inserting a invalid credentials
+Verify that the user can login with an invalid credentials
+Verify that a client can register like a user with an already used email
+Verify that the user can registration with invalid password
+Verify that the user can password reset functionality for an existing user using a valid email
+Verify the password reset functionality for a user using an email that is not registered
+Verify that the user can correct navigation to user profile page after login
+Verify the accessing the main page of the application without being logged in 
+Verify that the user logout functionality and redirecting to the login page
+As an user i want to be able to navigate on main page:
+Verify the acces of the main page of the application without being logged in
 
 <h5>Tests not in scope: </h5>
-
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
 
 <h4>1.1.5 Risks detected</h4>
 
