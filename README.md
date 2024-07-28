@@ -12,7 +12,7 @@ The below story As an user i want to create an account and As an user i want to 
 
  ![Story 1 si 2](https://github.com/user-attachments/assets/d5f76e0b-6ba7-41de-84c2-097aab474378)
  ![Story 1](https://github.com/user-attachments/assets/c283320b-244c-4332-9cbe-992f7e8a2b16)
-![Story 2](https://github.com/user-attachments/assets/00454e3c-3f94-42af-9a00-c0f5a0935621)
+ ![Story 2](https://github.com/user-attachments/assets/00454e3c-3f94-42af-9a00-c0f5a0935621)
 
 Here you can find the release that was created for this project:
 
@@ -206,7 +206,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here [Untitled 1.pdf](https://github.com/user-attachments/files/16404391/Untitled.1.pdf)
 
 <h3>1.5 Test Implementation</h3>
 
@@ -230,7 +230,6 @@ The traceability matrix was generated and can be found here: ![image](https://gi
 Test execution chart was generated and can be found below. 
 
 ![trasability](https://github.com/user-attachments/assets/7a5e3eb2-9b50-4cd8-a37e-38b506409ec8)
-
 
 The final report shows that a number 11 tests have failed of a total of 11
 
