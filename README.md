@@ -42,31 +42,40 @@ Definirea și Aprobarea Proiectului
 
 Scopul și Obiectivele Proiectului: Documentarea și aprobarea scopului, obiectivelor și beneficiilor așteptate ale proiectului.
 Sponsorul Proiectului: Identificarea și aprobarea unui sponsor al proiectului care va oferi suportul necesar și va lua deciziile finale.
+
 Resurse și Echipe
 Echipa Proiectului: Alocarea și confirmarea membrilor echipei proiectului, inclusiv rolurile și responsabilitățile acestora.
 Resurse Tehnice: Asigurarea accesului la resursele tehnice necesare, cum ar fi hardware-ul, software-ul și instrumentele necesare pentru dezvoltare.
 Documentație și Cerințe
+
 Cerințe de Business: Colectarea și documentarea cerințelor de business complete și aprobate.
 Cerințe Tehnice: Detalierea cerințelor tehnice și specificațiilor necesare pentru dezvoltarea proiectului.
 Documentație Funcțională: Crearea documentației funcționale care descrie funcționalitățile așteptate ale proiectului.
+
 Planificare și Estimare
 Plan de Proiect: Dezvoltarea unui plan detaliat de proiect care include fazele, activitățile, termenele limită și dependențele.
 Estimări de Timp și Costuri: Estimarea timpului necesar și a costurilor implicate pentru completarea proiectului.
+
 Riscuri și Gestionarea Riscurilor
 Identificarea Riscurilor: Identificarea și documentarea riscurilor potențiale asociate proiectului.
 Plan de Management al Riscurilor: Dezvoltarea unui plan de management al riscurilor care include strategii de atenuare și planuri de răspuns.
+
 Buget și Finanțare
 Aprobarea Bugetului: Obținerea aprobării bugetului necesar pentru proiect.
 Alocarea Fondurilor: Asigurarea că fondurile necesare sunt alocate și disponibile pentru utilizare.
+
 Infrastructură și Mediu de Lucru
 Mediu de Dezvoltare: Configurarea și accesul la mediul de dezvoltare necesar (servere, baze de date, rețele, etc.).
 Instrumente de Gestionare a Proiectului: Asigurarea accesului la instrumentele necesare pentru gestionarea proiectului, inclusiv Jira.
+
 Training și Dezvoltare
 Training pentru Echipa de Proiect: Asigurarea că membrii echipei au primit training-ul necesar pentru a utiliza Jira și alte instrumente relevante.
 Ghiduri și Documentație: Furnizarea ghidurilor și documentației necesare pentru a sprijini utilizarea corectă a Jira și implementarea proiectului.
+
 Comunicare și Colaborare
 Plan de Comunicare: Dezvoltarea unui plan de comunicare care include frecvența, canalele și metodele de comunicare.
 Mijloace de Colaborare: Asigurarea mijloacelor de colaborare necesare, cum ar fi Slack, Microsoft Teams, etc.
+
 Aprobări și Semnături
 Aprobări Oficiale: Obținerea aprobărilor oficiale de la toate părțile implicate (sponsor, management, echipa de proiect).
 Documente Semnate: Asigurarea că toate documentele necesare sunt semnate și arhivate corespunzător.
@@ -77,28 +86,36 @@ Realizarea Obiectivelor Proiectului
 
 Scopul și Obiectivele Atinge: Toate obiectivele și scopul definit inițial al proiectului au fost realizate.
 Livrabile Finalizate: Toate livrabilele proiectului au fost completate și livrate conform specificațiilor.
+
 Testare și Validare
 Testare Funcțională Completă: Toate funcționalitățile au fost testate și validate pentru a asigura că funcționează conform așteptărilor.
 Testare de Acceptanță de către Utilizatori (UAT): Utilizatorii finali au testat și aprobat funcționalitățile proiectului.
 Rezolvarea Problemelor: Toate problemele și defectele identificate au fost rezolvate sau documentate și aprobate pentru închidere.
+
 Documentație și Informații
 Documentație Completă: Toată documentația de proiect (manuale de utilizare, documentație tehnică, ghiduri de instalare, etc.) este completă și actualizată.
 Documentația de Testare: Rezultatele testelor și rapoartele de testare sunt complete și disponibile pentru revizuire.
+
 Training și Transfer de Cunoștințe
 Training Realizat: Toate sesiunile de training planificate pentru utilizatori și echipa de suport au fost realizate.
 Transfer de Cunoștințe: Transferul de cunoștințe către echipa de suport și întreținere a fost finalizat.
+
 Evaluarea Performanței și Acceptarea
 Evaluarea Performanței: Evaluarea performanței proiectului conform criteriilor stabilite (de exemplu, timp de răspuns, stabilitate, utilizare resurse).
 Acceptarea de către Stakeholderi: Stakeholderii cheie au revizuit și au acceptat rezultatele proiectului.
+
 Buget și Finanțe
 Buget Respectat: Proiectul a fost realizat în limita bugetului aprobat.
 Rapoarte Financiare: Rapoartele financiare finale au fost pregătite și revizuite.
+
 Riscuri și Lecții Învățate
 Riscuri Rezolvate: Toate riscurile identificate au fost gestionate și documentate.
 Lecții Învățate: Lecțiile învățate pe parcursul proiectului au fost documentate și distribuite echipei.
+
 Clienți și Utilizatori
 Satisfacția Utilizatorilor: Feedback-ul de la utilizatori indică un nivel ridicat de satisfacție.
 Asistență Post-Lansare: Asigurarea că există un plan de suport post-lansare pentru a gestiona eventualele probleme apărute după închidere.
+
 Formalități de Închidere
 Reuniunea de Închidere: Organizarea unei reuniuni de închidere a proiectului cu toți stakeholderii implicați.
 Aprobări Finale: Obținerea aprobărilor finale pentru închiderea oficială a proiectului.
@@ -133,30 +150,39 @@ Riscuri Tehnice
 Incompatibilitate Software: Probleme de compatibilitate între Jira și alte aplicații sau sisteme utilizate.
 Defecțiuni Tehnice: Erori sau defecțiuni în funcționalitatea Jira, care pot duce la pierderi de date sau întreruperi în utilizare.
 Limitări ale Platformei: Funcționalități sau capacități ale Jira care nu corespund nevoilor proiectului.
+
 Riscuri de Performanță
 Încărcare Ridicată: Performanța redusă a Jira din cauza unui număr mare de utilizatori sau date.
 Timpi de Răspuns Lenti: Încetinirea platformei, afectând productivitatea echipei.
+
 Riscuri de Securitate
 Vulnerabilități de Securitate: Expunerea la atacuri cibernetice sau breșe de securitate.
 Acces Neautorizat: Acces neautorizat la datele proiectului sau la setările Jira.
+
 Riscuri de Planificare
 Estimări Incorecte: Subestimarea sau supraestimarea timpului și resurselor necesare pentru completarea proiectului.
 Întârzieri în Program: Întârzieri în etapele critice ale proiectului, afectând livrarea finală.
+
 Riscuri de Resurse
 Disponibilitatea Resurselor: Lipsa de resurse umane sau tehnice necesare pentru a finaliza proiectul.
 Competențe și Experiență: Lipsa de competențe și experiență adecvată a echipei în utilizarea Jira sau în managementul proiectelor.
+
 Riscuri de Comunicarea și Colaborare
 Comunicare Ineficientă: Probleme în comunicarea dintre membrii echipei sau cu stakeholderii.
 Lipsa de Colaborare: Lipsa de colaborare între echipe sau departamente implicate în proiect.
+
 Riscuri de Management al Schimbărilor
 Rezistență la Schimbare: Rezistența din partea echipei sau a stakeholderilor la adoptarea Jira și a noilor procese de lucru.
 Gestionarea Inadecvată a Schimbărilor: Schimbări frecvente și necontrolate în cerințele proiectului sau în planul de proiect.
+
 Riscuri de Conformitate
 Conformitate cu Reglementările: Nerespectarea reglementărilor legale și a standardelor de conformitate.
 Proprietatea Datelor: Probleme legate de proprietatea și gestionarea datelor în conformitate cu reglementările de protecție a datelor (de exemplu, GDPR).
+
 Riscuri Financiare
 Depășirea Bugetului: Costuri mai mari decât cele planificate inițial, afectând viabilitatea financiară a proiectului.
 Finanțare Inadecvată: Lipsa de fonduri suficiente pentru a susține proiectul până la finalizare.
+
 Riscuri de Calitate
 Calitate Slabă: Livrarea unui produs sau serviciu care nu îndeplinește standardele de calitate așteptate.
 Defecte și Erori: Defecte și erori în livrabilele proiectului care necesită reparații sau refacere.
@@ -216,6 +242,37 @@ A number of 1 total bugs were found, from which the priority is: are medium.
 
 Am creat in acest proiect doua story-uri;
 Am executat 11 din 11 teste create;
-Am descoperit un singur bug cu impact mediu.
+Am descoperit un singur bug cu impact mediucare poate fi fixat si ulterior
+Procentajul este de 100%
 ![image](https://github.com/user-attachments/assets/102c2cd0-4833-43c4-9219-e70bfbe8f650)
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
+
+Recomandări pentru Lansare:
+Confirmarea Finalizării Testelor Critice:
+
+Asigurați-vă că toate testele critice (de exemplu, autentificarea utilizatorilor, resetarea parolei, înregistrarea utilizatorilor) au fost finalizate și au trecut cu succes. Din raport reiese că aceste teste sunt "DONE", ceea ce este un semn pozitiv.
+Rezolvarea Problemelor Identificate:
+
+Verificați dacă toate problemele sau bug-urile identificate pe parcursul testării au fost rezolvate. Este esențial ca toate defectele raportate să fie corectate înainte de lansare pentru a asigura o experiență de utilizare fără probleme.
+Testare de Performanță și Securitate:
+
+Efectuați teste suplimentare de performanță pentru a vă asigura că site-ul poate gestiona un număr mare de utilizatori simultan.
+Realizați o evaluare completă a securității pentru a proteja datele utilizatorilor și a preveni vulnerabilitățile.
+Verificarea Compatibilității pe Diferite Dispozitive și Browsere:
+
+Testați site-ul pe diferite dispozitive (desktop, tablete, telefoane mobile) și în diferite browsere (Chrome, Firefox, Safari, Edge) pentru a asigura o compatibilitate optimă.
+Plan de Contingență:
+
+Pregătiți un plan de contingență pentru a gestiona eventualele probleme post-lansare. Acest plan ar trebui să includă proceduri pentru raportarea și rezolvarea rapidă a oricăror defecte care ar putea apărea.
+Documentație și Training:
+
+Asigurați-vă că există documentație adecvată pentru utilizatori și pentru echipa de suport tehnic.
+Organizați sesiuni de training pentru echipa de suport și pentru alți stakeholderi pentru a-i familiariza cu noul site și funcționalitățile acestuia.
+Comunicare și Feedback:
+
+Pregătiți o strategie de comunicare pentru a anunța lansarea site-ului către utilizatori.
+Implementați un mecanism de colectare a feedback-ului post-lansare pentru a identifica rapid orice probleme sau sugestii de îmbunătățire din partea utilizatorilor.
+Monitorizare Post-Lansare:
+
+Monitorizați atent site-ul în perioada imediat următoare lansării pentru a detecta și rezolva orice probleme care ar putea apărea.
+Utilizați instrumente de monitorizare a performanței și analizei traficului pentru a evalua utilizarea site-ului și pentru a identifica zonele care necesită optimizare.
+Aceste recomandări vor contribui la o lansare lină și de succes a site-ului, asigurând o experiență pozitivă pentru utilizatori și menținând integritatea și funcționalitatea site-ului.
