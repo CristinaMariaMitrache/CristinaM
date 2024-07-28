@@ -128,7 +128,38 @@ Verify the acces of the main page of the application without being logged in
 
 <h5>Project risks:</h5>
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
+Riscuri Tehnice
+
+Incompatibilitate Software: Probleme de compatibilitate între Jira și alte aplicații sau sisteme utilizate.
+Defecțiuni Tehnice: Erori sau defecțiuni în funcționalitatea Jira, care pot duce la pierderi de date sau întreruperi în utilizare.
+Limitări ale Platformei: Funcționalități sau capacități ale Jira care nu corespund nevoilor proiectului.
+Riscuri de Performanță
+Încărcare Ridicată: Performanța redusă a Jira din cauza unui număr mare de utilizatori sau date.
+Timpi de Răspuns Lenti: Încetinirea platformei, afectând productivitatea echipei.
+Riscuri de Securitate
+Vulnerabilități de Securitate: Expunerea la atacuri cibernetice sau breșe de securitate.
+Acces Neautorizat: Acces neautorizat la datele proiectului sau la setările Jira.
+Riscuri de Planificare
+Estimări Incorecte: Subestimarea sau supraestimarea timpului și resurselor necesare pentru completarea proiectului.
+Întârzieri în Program: Întârzieri în etapele critice ale proiectului, afectând livrarea finală.
+Riscuri de Resurse
+Disponibilitatea Resurselor: Lipsa de resurse umane sau tehnice necesare pentru a finaliza proiectul.
+Competențe și Experiență: Lipsa de competențe și experiență adecvată a echipei în utilizarea Jira sau în managementul proiectelor.
+Riscuri de Comunicarea și Colaborare
+Comunicare Ineficientă: Probleme în comunicarea dintre membrii echipei sau cu stakeholderii.
+Lipsa de Colaborare: Lipsa de colaborare între echipe sau departamente implicate în proiect.
+Riscuri de Management al Schimbărilor
+Rezistență la Schimbare: Rezistența din partea echipei sau a stakeholderilor la adoptarea Jira și a noilor procese de lucru.
+Gestionarea Inadecvată a Schimbărilor: Schimbări frecvente și necontrolate în cerințele proiectului sau în planul de proiect.
+Riscuri de Conformitate
+Conformitate cu Reglementările: Nerespectarea reglementărilor legale și a standardelor de conformitate.
+Proprietatea Datelor: Probleme legate de proprietatea și gestionarea datelor în conformitate cu reglementările de protecție a datelor (de exemplu, GDPR).
+Riscuri Financiare
+Depășirea Bugetului: Costuri mai mari decât cele planificate inițial, afectând viabilitatea financiară a proiectului.
+Finanțare Inadecvată: Lipsa de fonduri suficiente pentru a susține proiectul până la finalizare.
+Riscuri de Calitate
+Calitate Slabă: Livrarea unui produs sau serviciu care nu îndeplinește standardele de calitate așteptate.
+Defecte și Erori: Defecte și erori în livrabilele proiectului care necesită reparații sau refacere.
 
 <h5> Product risks: </h5>
 
@@ -147,7 +178,7 @@ The testing process will be executed based on the application requirements. <b>(
 
 The following test conditions were found: <br>
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+![Story 1](https://github.com/user-attachments/assets/3f18a6c9-e447-46b1-aa0c-12c507999a9b)
 
 <h3>1.4 Test Design</h3>
 
@@ -161,26 +192,30 @@ The following elements are needed to be ready before the test execution phase be
 
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: **(inserati aici numele cycle-ului pe care l-ati creat)**
+Test cases are executed on the created test Cycle summary: Test user account and main page https://plant-shop.ro/
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [MCM-15 (1).pdf](https://github.com/user-attachments/files/16404061/MCM-15.1.pdf)
 
-The following is a summary of the bugs that have been found
-**(inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)**
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
 <h3> 1.7 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+The traceability matrix was generated and can be found here: ![image](https://github.com/user-attachments/assets/e48daf90-9e8d-4573-a8df-b9642ae951b4)
+
 
 Test execution chart was generated and can be found below. 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+![trasability](https://github.com/user-attachments/assets/7a5e3eb2-9b50-4cd8-a37e-38b506409ec8)
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
 
-A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
+The final report shows that a number 11 tests have failed of a total of 11
 
+A number of 1 total bugs were found, from which the priority is: are medium.
+
+Am creat in acest proiect doua story-uri;
+Am executat 11 din 11 teste create;
+Am descoperit un singur bug cu impact mediu.
+![image](https://github.com/user-attachments/assets/102c2cd0-4833-43c4-9219-e70bfbe8f650)
 **(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
