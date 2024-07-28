@@ -242,9 +242,8 @@ A number of 1 total bugs were found, from which the priority is: are medium.
 
 Am creat in acest proiect doua story-uri;
 Am executat 11 din 11 teste create;
-Am descoperit un singur bug cu impact mediucare poate fi fixat si ulterior
-Procentajul este de 100%
-![image](https://github.com/user-attachments/assets/102c2cd0-4833-43c4-9219-e70bfbe8f650)
+Am descoperit un singur bug cu impact mediucare poate fi fixat si ulterior;
+Procentajul este de 100%.
 
 Recomandări pentru Lansare:
 Confirmarea Finalizării Testelor Critice:
@@ -260,8 +259,8 @@ Realizați o evaluare completă a securității pentru a proteja datele utilizat
 Verificarea Compatibilității pe Diferite Dispozitive și Browsere:
 
 Testați site-ul pe diferite dispozitive (desktop, tablete, telefoane mobile) și în diferite browsere (Chrome, Firefox, Safari, Edge) pentru a asigura o compatibilitate optimă.
-Plan de Contingență:
 
+Plan de Contingență:
 Pregătiți un plan de contingență pentru a gestiona eventualele probleme post-lansare. Acest plan ar trebui să includă proceduri pentru raportarea și rezolvarea rapidă a oricăror defecte care ar putea apărea.
 Documentație și Training:
 
@@ -275,4 +274,5 @@ Monitorizare Post-Lansare:
 
 Monitorizați atent site-ul în perioada imediat următoare lansării pentru a detecta și rezolva orice probleme care ar putea apărea.
 Utilizați instrumente de monitorizare a performanței și analizei traficului pentru a evalua utilizarea site-ului și pentru a identifica zonele care necesită optimizare.
+
 Aceste recomandări vor contribui la o lansare lină și de succes a site-ului, asigurând o experiență pozitivă pentru utilizatori și menținând integritatea și funcționalitatea site-ului.
