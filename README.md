@@ -189,15 +189,13 @@ Defecte și Erori: Defecte și erori în livrabilele proiectului care necesită 
 
 <h5> Product risks: </h5>
 
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
-
 <h4>1.1.6 Evaluating entry criteria</h4>
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 <h3>1.2 Test Monitoring and Control<h3>
 
-**(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)**
+![matrix](https://github.com/user-attachments/assets/f87344ad-5c09-48cf-81ce-7274beeb9ddd)
 
 <h3> 1.3 Test Analysis </h3>
 The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
@@ -213,8 +211,6 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 <h3>1.5 Test Implementation</h3>
 
 The following elements are needed to be ready before the test execution phase begins:
-
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
 
 <h3>1.6. Test Execution </h3>
 
